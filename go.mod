@@ -5,6 +5,8 @@ go 1.15
 require (
 	github.com/cweill/gotests v1.6.0 // indirect
 	github.com/fatih/gomodifytags v1.13.0 // indirect
+	github.com/gin-gonic/gin v1.6.3
+	github.com/go-sql-driver/mysql v1.4.0
 	github.com/golangci/golangci-lint v1.36.0 // indirect
 	github.com/haya14busa/goplay v1.0.0 // indirect
 	github.com/josharian/impl v1.0.0 // indirect
