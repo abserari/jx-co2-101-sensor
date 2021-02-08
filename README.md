@@ -1,5 +1,9 @@
 # jx-co2-101-sensor
 
+## Preview
+![image](https://user-images.githubusercontent.com/32089134/107248353-2df5e000-6a6d-11eb-910e-34affce080ea.png)
+
+## Sensor code
 树莓派 Raspberry model 3B+ 和 JX-CO2-101 传感器. [更多文档](https://www.yuque.com/abser/solutions/telmsy)
 
 ```go
